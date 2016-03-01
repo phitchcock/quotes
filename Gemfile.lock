@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (1.6.4)
+    redux (0.1.0)
+      rack
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  redux
+
+BUNDLED WITH
+   1.11.2
